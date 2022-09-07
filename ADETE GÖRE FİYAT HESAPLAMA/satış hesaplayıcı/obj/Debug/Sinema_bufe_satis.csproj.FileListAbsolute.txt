@@ -1,0 +1,11 @@
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\bin\Debug\Sinema_bufe_satis.exe.config
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\bin\Debug\Sinema_bufe_satis.exe
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\bin\Debug\Sinema_bufe_satis.pdb
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.Form1.resources
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.Properties.Resources.resources
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.exe
+C:\Users\casper\Desktop\C#\Sinema_bufe_satis\Sinema_bufe_satis\obj\Debug\Sinema_bufe_satis.pdb
